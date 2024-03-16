@@ -1,0 +1,46 @@
+.container{
+    background-color: #fff2cc;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+}
+.nav-logo{
+    background-color: #cdeb8b;
+    border: 1px solid black;
+    padding: 16px;
+    margin-left: 8px;
+}
+.nav-function{
+    display: flex;
+}
+.nav-function-all{
+    padding: 16px;
+    background-color: #ffcccc;
+    border: 1px solid black;
+}
+
+/* bài 2 */
+
+.nav-logo2, .nav-function2{
+    display: flex;
+    margin-left: 16px;
+    align-items: center;
+}
+.nav-logo-item{
+    background-color: #cdeb8b;
+    border: 1px solid black;
+    padding: 8px;
+}
+.nav-logo-name{
+    margin-left: 8px;
+}
+.nav-function-all2{
+    margin: 0 16px;
+}
+.nav-function-login2{
+    background-color: #d5e8d4;
+    padding: 8px;
+    border: 1px solid black;
+}

@@ -1,0 +1,33 @@
+.container{
+    background-color: #dae8fc;
+    width: 35%;
+    margin: auto;
+    padding: 16px;
+}
+.text-all {
+    padding: 20px;
+    border: 2px solid #e1ae33;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.title1 {
+    background-color: #ffe6cc;
+    text-align: center;
+}
+.text1{
+    font-size: 30px;
+    background-color: #f8cecc;
+}
+.btn-response{
+    background-color: #1ba1e2;
+    border-radius: 5px;
+    color: white;
+    font-weight: 200;
+    padding: 15px;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin-bottom: 8px;
+}
